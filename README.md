@@ -4,12 +4,20 @@
 ### **Application Development**
 + #### Python
 + #### C++
++ #### Java
 
 ### **Web development**
 ### Front end
 + #### HTML
 + #### CSS
 + #### JavaScript (In process)
++ #### Typescript
+
+### Tools
++ #### Angular
++ #### Astro
++ #### React
+
 
 ### Back end
 + #### Microsoft SQLServer
