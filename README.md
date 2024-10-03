@@ -10,7 +10,7 @@
 ### Front end
 + #### HTML
 + #### CSS
-+ #### JavaScript (In process)
++ #### JavaScript
 + #### Typescript
 
 ### Tools
