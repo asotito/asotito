@@ -1,28 +1,21 @@
-# **Andres Soto**
+# ✨ Andrés Soto | Software Developer ✨
 
-## Skills
-### **Application Development**
-+ #### Python
-+ #### C++
-+ #### Java
+## 💻 Sobre Mí
+Soy un desarrollador de software apasionado por crear soluciones digitales innovadoras y eficientes. Con experiencia en **desarrollo web**
 
-### **Web development**
-### Front end
-+ #### HTML
-+ #### CSS
-+ #### JavaScript
-+ #### Typescript
+## 💡 Servicios
+- **Desarrollo Web**: Aplicaciones modernas y responsivas con **React, Java, .NET, Angular y más**.
+- **Backend & API Development**: Arquitecturas escalables y seguras.
 
-### Tools
-+ #### Angular
-+ #### Astro
-+ #### React
+## 🔧 Tecnologías
+- 🚀**Frontend**: React, Vite, TailwindCSS, Angular, HTML, CSS
+- ⚙️**Backend**: Java, .NET, Pyton
+- 🗄️**Bases de Datos**: PostgreSQL, MySQL, MongoDB
 
+## 👤 Contacto
+📧 **Email**: [correo](mailto:andressotokr1@gmail.com)  
+🌐 **Website/Portfolio**: [web]([http://www.tuportafolio.com](https://andressotodev.vercel.app/))  
+📱 **Instagram**: [@andres.soto.dev](https://www.instagram.com/andres.soto.dev/)  
+👥 **LinkedIn**: [linkedin]([https://linkedin.com/in/andressoto](https://www.linkedin.com/in/andres-soto-0429a127b/))
 
-### Back end
-+ #### Microsoft SQLServer
-+ #### MongoDB
-<!---
-asotito/asotito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 **¡Mira los proyectos que tengo!**
