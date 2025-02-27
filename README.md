@@ -16,6 +16,6 @@ Soy un desarrollador de software apasionado por crear soluciones digitales innov
 📧 **Email**: [correo](mailto:andressotokr1@gmail.com)  
 🌐 **Website/Portfolio**: [web](https://andressotodev.vercel.app/)  
 📱 **Instagram**: [@andres.soto.dev](https://www.instagram.com/andres.soto.dev/)  
-👥 **LinkedIn**: [linkedin]((https://www.linkedin.com/in/andres-soto-0429a127b/))
+👥 **LinkedIn**: [linkedin](https://www.linkedin.com/in/andres-soto-0429a127b/)
 
 🔗 **¡Mira los proyectos que tengo!**
