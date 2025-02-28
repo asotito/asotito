@@ -1,7 +1,7 @@
-# ✨ Andrés Soto | Software Developer ✨
+# ✨ Andrés Soto | Software Engineer ✨
 
 ## 💻 Sobre Mí
-Soy un desarrollador de software apasionado por crear soluciones digitales innovadoras y eficientes. Con experiencia en **desarrollo web**
+Soy un ingeniero de software apasionado por crear soluciones digitales innovadoras y eficientes. Con experiencia en **desarrollo web**
 
 ## 💡 Servicios
 - **Desarrollo Web**: Aplicaciones modernas y responsivas con **React, Java, .NET, Angular y más**.
